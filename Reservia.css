@@ -1,0 +1,13 @@
+ul {
+    list-style-type: none;
+    justify-content: left;
+    padding: 0;
+}
+footer {
+    background-color: #F2F2F2;
+    display: flex;
+}
+footer div {
+    flex: auto;
+    line-height: 25px;
+}
