@@ -60,11 +60,13 @@ footer div {
 }
 #accomodations-background {
     background-color: #F2F2F2;
-    border-radius: 10px;  
+    border-radius: 10px; 
+    flex: 0 1 auto;
 }
 #popular-background {
     background-color: #F2F2F2;
     border-radius: 10px;
+    flex: 0 1 auto;
 }
 section#top {
     display: flex;
